@@ -8,7 +8,7 @@ Nous avons obtenu les tableaux de bord suivants :
 
 
 
-et :
+Et :
 
 
 ![DDash2](Dashboard2.png)
